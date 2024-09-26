@@ -1,17 +1,24 @@
 # Hi, I'm Conny! 👋
 
-Hi! I am a third-year Computer Science (Data Analytics) student at Asia Pacific University of Technology & Innovation (APU) Malaysia. I am passionate about applying my skills to real-world challenges, and I thrive in dynamic environments where I can continuously grow and adapt.
+Hi! I am a Computer Science (Data Analytics) student at Asia Pacific University of Technology & Innovation (APU) Malaysia. I am passionate about applying my skills to real-world challenges, and I thrive in dynamic environments where I can continuously grow and adapt.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=cnyphg&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=cnyphg&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cnyphg&layout=donut&hide_border=true&theme=darcula&bg_color=00000000">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=cnyphg&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
 
 ## My Websites
 - ...
 
-
 ## 🌱 Currently Exploring
 
 - 🚀 Learning ...
+
+## 📑 Projects
+- [University Food Ordering System](https://github.com/cnyphg/University_Food_Ordering_System)
+- [Programming Cafe](https://github.com/cnyphg/Programming_Cafe)
+- [Airport Simulation Project](https://github.com/cnyphg/Airport_Simulation_Project)
 
  ## 🏆 Achievements
 
@@ -23,8 +30,4 @@ Hi! I am a third-year Computer Science (Data Analytics) student at Asia Pacific 
 - Connect with me on 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-<!--
 
