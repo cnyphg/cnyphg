@@ -8,12 +8,12 @@ Hi! I am a Computer Science (Data Analytics) student at Asia Pacific University 
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=cnyphg&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
-## My Websites
+<!-- ## My Websites 
 - ...
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning ...
+- 🚀 Learning ... -->
 
 ## 📑 Projects
 - [University Food Ordering System](https://github.com/cnyphg/University_Food_Ordering_System)
@@ -22,12 +22,14 @@ Hi! I am a Computer Science (Data Analytics) student at Asia Pacific University 
 
  ## 🏆 Achievements
 
-- 🌟 
-
+- Google Analytics for Beginner | Google Analytics Academy (2024)
+- Advanced Google Analytics | Google Analytics Academy (2024)
+- Introduction to Career Skills in Data Analytics | LinkedIn Learning (2024)
+- Project 101 Python Workshop | Heriot-Watt University Malaysia (2022)
 
 ## 📬 Get in Touch
 
-- Connect with me on 
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/khong-eer-phang-9a8334217/) 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
